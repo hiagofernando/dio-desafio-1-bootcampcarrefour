@@ -1,2 +1,2 @@
-# dio-desafio-1-bootcampcarrefour
+# Repositorio de Desafio de Projeto Git/GitHub da DIO
 Desafio de projeto sobre Git/GitHub
